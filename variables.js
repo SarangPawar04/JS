@@ -5,6 +5,7 @@ var accountPassowrd = "sarang11"
 account = "nagar"
 
 console.log(accountId);
+let accountstate
 
 
-console.table([accountId, accountMail, accountPassowrd, account])
+console.table([accountId, accountMail, accountPassowrd, account, accountstate])

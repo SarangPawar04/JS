@@ -1,1 +1,1 @@
-console.log("Sarnag")
+"use strict"; // this line treats all js code   as newer version 
